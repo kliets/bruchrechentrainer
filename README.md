@@ -1,2 +1,2 @@
-# bruchrechentrainer
+# Bruchrechentrainer
 Bruchrechentrainer
