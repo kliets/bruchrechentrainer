@@ -27,27 +27,26 @@ Jedes Kapitel hat drei Teile: **Verstehen** (Merkwissen mit Bildern), **Ausprobi
 
 <table>
 <tr>
+<td align="center" width="33%"><a href="screenshots/02a-verstehen.png"><img src="screenshots/02a-verstehen.png" alt="Merkwissen mit Bildern" width="260"></a></td>
 <td align="center" width="33%"><a href="screenshots/02-ausprobieren.png"><img src="screenshots/02-ausprobieren.png" alt="Interaktives Modell zum Gleichnamig-Machen" width="260"></a></td>
 <td align="center" width="33%"><a href="screenshots/03-ueben-foerderhinweis.png"><img src="screenshots/03-ueben-foerderhinweis.png" alt="Übungsaufgabe mit Tipp und Förderhinweis" width="260"></a></td>
-<td align="center" width="33%"><a href="screenshots/04-ergebnis-foerderplan.png"><img src="screenshots/04-ergebnis-foerderplan.png" alt="Ergebnis mit Förderplan" width="260"></a></td>
 </tr>
 <tr>
+<td align="center"><b>Verstehen</b></td>
 <td align="center"><b>Ausprobieren</b></td>
 <td align="center"><b>Üben</b></td>
-<td align="center"><b>Abschlusstest</b></td>
 </tr>
 <tr>
+<td align="center" width="33%"><a href="screenshots/04-ergebnis-foerderplan.png"><img src="screenshots/04-ergebnis-foerderplan.png" alt="Ergebnis mit Förderplan" width="260"></a></td>
 <td align="center" width="33%"><a href="screenshots/05-foerderheft.png"><img src="screenshots/05-foerderheft.png" alt="Seiten aus dem Förderheft" width="260"></a></td>
 <td align="center" width="33%"><a href="screenshots/06-auswertung-lehrkraft.png"><img src="screenshots/06-auswertung-lehrkraft.png" alt="Klassenauswertung im Lehrkräftebereich" width="260"></a></td>
-<td></td>
 </tr>
 <tr>
+<td align="center"><b>Abschlusstest</b></td>
 <td align="center"><b>Fördermaterial</b></td>
 <td align="center"><b>Auswertung für Lehrkräfte</b></td>
-<td></td>
 </tr>
 </table>
-
 <sub>Zum Vergrößern auf ein Bild klicken.</sub>
 
 ### Informationen für Lehrkräfte
