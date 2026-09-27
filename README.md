@@ -23,33 +23,33 @@ Interaktiver Selbstlernkurs zur Bruchrechnung für die Klassenstufe 6 – mit Er
 Jedes Kapitel hat drei Teile: **Verstehen** (Merkwissen mit Bildern), **Ausprobieren** (interaktive Modelle mit Schiebereglern) und **Üben** (zufällig erzeugte Aufgaben mit Tipps und Lösungsweg).
 
 ## Eindrücke aus dem Programm
+## So sieht es aus
 
-**Ausprobieren** – Bildmodelle machen sichtbar, warum man zum Addieren einen gemeinsamen Nenner braucht.
+<table>
+<tr>
+<td align="center" width="33%"><a href="screenshots/02-ausprobieren.png"><img src="screenshots/02-ausprobieren.png" alt="Interaktives Modell zum Gleichnamig-Machen" width="260"></a><br><b>Ausprobieren</b></td>
+<td align="center" width="33%"><a href="screenshots/03-ueben-foerderhinweis.png"><img src="screenshots/03-ueben-foerderhinweis.png" alt="Übungsaufgabe mit Tipp und Förderhinweis" width="260"></a><br><b>Üben</b></td>
+<td align="center" width="33%"><a href="screenshots/04-ergebnis-foerderplan.png"><img src="screenshots/04-ergebnis-foerderplan.png" alt="Ergebnis mit Förderplan" width="260"></a><br><b>Abschlusstest</b></td>
+</tr>
+<tr>
+<td align="center" width="33%"><a href="screenshots/05-foerderheft.png"><img src="screenshots/05-foerderheft.png" alt="Seiten aus dem Förderheft" width="260"></a><br><b>Fördermaterial</b></td>
+<td align="center" width="33%"><a href="screenshots/06-auswertung-lehrkraft.png"><img src="screenshots/06-auswertung-lehrkraft.png" alt="Klassenauswertung im Lehrkräftebereich" width="260"></a><br><b>Auswertung für Lehrkräfte</b></td>
+<td></td>
+</tr>
+</table>
 
-![Interaktives Modell zum Gleichnamig-Machen](screenshots/02-ausprobieren.png)
-
-**Üben** – Brüche werden wie im Heft eingegeben: Zähler oben, Nenner unten. Typische Fehler (hier: Nenner addiert) erkennt der Kurs und schlägt das passende Förderblatt vor.
-
-![Übungsaufgabe mit Tipp und Förderhinweis](screenshots/03-ueben-foerderhinweis.png)
-
-**Abschlusstest** – 12 Aufgaben aus allen Kapiteln. Danach sehen die Kinder, was sie noch einmal üben sollten, und können einen Lernbericht als PDF herunterladen.
-
-![Ergebnis mit Förderplan](screenshots/04-ergebnis-foerderplan.png)
-
-**Fördermaterial** – 20 Förderbausteine als Förderheft und 9 Förderblätter (PDF): jeweils „So geht's“, ein Beispiel und Aufgaben in drei Stufen (● Mit Hilfe, ●● Übe allein, ●●● Knobeln), Lösungen zur Selbstkontrolle.
-
-![Seiten aus dem Förderheft](screenshots/05-foerderheft.png)
-
-**Auswertung für Lehrkräfte** – Über einen Test-Link geben die Kinder eine verschlüsselte Ergebnisdatei in itslearning ab. Im Lehrkräftebereich entsteht daraus eine Klassenübersicht: Punkte, Förderbedarf pro Förderblatt mit Namen, Export als Excel-Tabelle.
-
-![Klassenauswertung im Lehrkräftebereich](screenshots/06-auswertung-lehrkraft.png)
+<sub>Zum Vergrößern auf ein Bild klicken.</sub>
 
 ## Für Lehrkräfte
 
 - **Einsatz:** Den Kurs-Link in itslearning (oder einer anderen Lernplattform) als Link einstellen, Option „in neuem Fenster öffnen“.
 - **Test mit Abgabe:** Im Bereich „Für Lehrkräfte“ einen Test-Link erzeugen (namentlich oder anonym), in einer itslearning-Aufgabe mit Abgabe bereitstellen, die abgegebenen Ergebnisdateien anschließend im Kurs auswerten.
 - **Arbeitsblätter und Lösungen:** Papierversion aller Übungen und des Abschlusstests (Gruppe A und B), Schülerfassung und Lösungen getrennt.
-- Der Lehrkräftebereich ist **passwortgeschützt**. Das Passwort und eine ausführliche Anleitung erhalten Lehrkräfte auf Anfrage.
+- Der Lehrkräftebereich ist **passwortgeschützt**. Das Passwort ist nicht öffentlich und muss erfragt werden.
+
+**Anleitungen:**
+- [Schnellstart für Lehrkräfte (1 Seite, PDF)](anleitung/Schnellstart-Lehrkraefte.pdf) · [bearbeitbar (ODT)](anleitung/Schnellstart-Lehrkraefte.odt)
+- [Ausführliche Anleitung für Lehrkräfte (PDF)](anleitung/Anleitung-Lehrkraefte.pdf) · [bearbeitbar (ODT)](anleitung/Anleitung-Lehrkraefte.odt)
 
 ## Datenschutz
 
