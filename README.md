@@ -1,4 +1,4 @@
-## Bruchrechentrainer – Selbstlernkurs Bruchrechnung
+# Bruchrechentrainer – Selbstlernkurs Bruchrechnung
 
 Interaktiver Selbstlernkurs zur Bruchrechnung für die Klassenstufe 6 – mit Erklärungen, Bildmodellen, zufällig erzeugten Übungsaufgaben, gezielter Förderdiagnose, Abschlusstest und Fördermaterial zum Ausdrucken. Läuft direkt im Browser. Keine Anmeldung, keine Installation, keine Datenspeicherung auf einem Server.
 
