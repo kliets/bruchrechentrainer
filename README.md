@@ -8,7 +8,7 @@ Interaktiver Selbstlernkurs zur Bruchrechnung für die Klassenstufe 6 – mit Er
 <a href="screenshots/01-start.png"><img src="screenshots/01-start.png" alt="Startseite des Kurses" width="420"></a>
 </p>
 
-### Inhalte
+###Inhalte
 
 | Kapitel | Thema |
 |---|---|
@@ -24,7 +24,7 @@ Interaktiver Selbstlernkurs zur Bruchrechnung für die Klassenstufe 6 – mit Er
 
 Jedes Kapitel hat drei Teile: **Verstehen** (Merkwissen mit Bildern), **Ausprobieren** (interaktive Modelle mit Schiebereglern) und **Üben** (zufällig erzeugte Aufgaben mit Tipps und Lösungsweg).
 
-### Eindrücke aus dem Programm
+###Features
 
 <table>
 <tr>
@@ -51,7 +51,7 @@ Jedes Kapitel hat drei Teile: **Verstehen** (Merkwissen mit Bildern), **Ausprobi
 
 <sub>Zum Vergrößern auf ein Bild klicken.</sub>
 
-### Für Lehrkräfte
+### Informationen für Lehrkräfte
 
 - **Einsatz:** Den Kurs-Link in itslearning (oder einer anderen Lernplattform) als Link einstellen, Option „in neuem Fenster öffnen“.
 - **Test mit Abgabe:** Im Bereich „Für Lehrkräfte“ einen Test-Link erzeugen (namentlich oder anonym), in einer itslearning-Aufgabe mit Abgabe bereitstellen, die abgegebenen Ergebnisdateien anschließend im Kurs auswerten.
