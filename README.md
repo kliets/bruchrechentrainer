@@ -10,17 +10,16 @@ Interaktiver Selbstlernkurs zur Bruchrechnung für die Klassenstufe 6 – mit Er
 
 ### Inhalte
 
-| Kapitel | Thema |
-|---|---|
-| 1 | Brüche als Anteile |
-| 2 | Erweitern und Kürzen |
-| 3 | Echte und unechte Brüche, gemischte Zahlen |
-| 4 | Brüche und Dezimalzahlen |
-| 5 | Prozente |
-| 6 | Addieren und Subtrahieren |
-| 7 | Multiplizieren |
-| 8 | Dividieren |
-| 9 | Rechnen mit Dezimalzahlen und Brüchen |
+<div align="center">
+<table>
+<tr><th><sub>Kapitel</sub></th><th><sub>Thema</sub></th><th><sub>Kapitel</sub></th><th><sub>Thema</sub></th></tr>
+<tr><td align="center"><sub>1</sub></td><td><sub>Brüche als Anteile</sub></td><td align="center"><sub>6</sub></td><td><sub>Addieren und Subtrahieren</sub></td></tr>
+<tr><td align="center"><sub>2</sub></td><td><sub>Erweitern und Kürzen</sub></td><td align="center"><sub>7</sub></td><td><sub>Multiplizieren</sub></td></tr>
+<tr><td align="center"><sub>3</sub></td><td><sub>Echte und unechte Brüche, gemischte Zahlen</sub></td><td align="center"><sub>8</sub></td><td><sub>Dividieren</sub></td></tr>
+<tr><td align="center"><sub>4</sub></td><td><sub>Brüche und Dezimalzahlen</sub></td><td align="center"><sub>9</sub></td><td><sub>Rechnen mit Dezimalzahlen und Brüchen</sub></td></tr>
+<tr><td align="center"><sub>5</sub></td><td><sub>Prozente</sub></td><td></td><td></td></tr>
+</table>
+</div>
 
 Jedes Kapitel hat drei Teile: **Verstehen** (Merkwissen mit Bildern), **Ausprobieren** (interaktive Modelle mit Schiebereglern) und **Üben** (zufällig erzeugte Aufgaben mit Tipps und Lösungsweg).
 
