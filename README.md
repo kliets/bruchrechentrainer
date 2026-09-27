@@ -8,7 +8,7 @@ Interaktiver Selbstlernkurs zur Bruchrechnung für die Klassenstufe 6 – mit Er
 <a href="screenshots/01-start.png"><img src="screenshots/01-start.png" alt="Startseite des Kurses" width="420"></a>
 </p>
 
-###Inhalte
+### Inhalte
 
 | Kapitel | Thema |
 |---|---|
@@ -24,7 +24,7 @@ Interaktiver Selbstlernkurs zur Bruchrechnung für die Klassenstufe 6 – mit Er
 
 Jedes Kapitel hat drei Teile: **Verstehen** (Merkwissen mit Bildern), **Ausprobieren** (interaktive Modelle mit Schiebereglern) und **Üben** (zufällig erzeugte Aufgaben mit Tipps und Lösungsweg).
 
-###Features
+### Features
 
 <table>
 <tr>
