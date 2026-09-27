@@ -1,4 +1,4 @@
-# Bruchrechentrainer – Selbstlernkurs Bruchrechnung
+### Bruchrechentrainer – Selbstlernkurs Bruchrechnung
 
 Interaktiver Selbstlernkurs zur Bruchrechnung für die Klassenstufe 6 – mit Erklärungen, Bildmodellen, zufällig erzeugten Übungsaufgaben, gezielter Förderdiagnose, Abschlusstest und Fördermaterial zum Ausdrucken. Läuft direkt im Browser. Keine Anmeldung, keine Installation, keine Datenspeicherung auf einem Server.
 
@@ -8,7 +8,7 @@ Interaktiver Selbstlernkurs zur Bruchrechnung für die Klassenstufe 6 – mit Er
 <a href="screenshots/01-start.png"><img src="screenshots/01-start.png" alt="Startseite des Kurses" width="420"></a>
 </p>
 
-## Inhalte
+### Inhalte
 
 | Kapitel | Thema |
 |---|---|
@@ -24,7 +24,7 @@ Interaktiver Selbstlernkurs zur Bruchrechnung für die Klassenstufe 6 – mit Er
 
 Jedes Kapitel hat drei Teile: **Verstehen** (Merkwissen mit Bildern), **Ausprobieren** (interaktive Modelle mit Schiebereglern) und **Üben** (zufällig erzeugte Aufgaben mit Tipps und Lösungsweg).
 
-## Eindrücke aus dem Programm
+### Eindrücke aus dem Programm
 
 <table>
 <tr>
@@ -51,18 +51,18 @@ Jedes Kapitel hat drei Teile: **Verstehen** (Merkwissen mit Bildern), **Ausprobi
 
 <sub>Zum Vergrößern auf ein Bild klicken.</sub>
 
-## Für Lehrkräfte
+### Für Lehrkräfte
 
 - **Einsatz:** Den Kurs-Link in itslearning (oder einer anderen Lernplattform) als Link einstellen, Option „in neuem Fenster öffnen“.
 - **Test mit Abgabe:** Im Bereich „Für Lehrkräfte“ einen Test-Link erzeugen (namentlich oder anonym), in einer itslearning-Aufgabe mit Abgabe bereitstellen, die abgegebenen Ergebnisdateien anschließend im Kurs auswerten.
 - **Arbeitsblätter und Lösungen:** Papierversion aller Übungen und des Abschlusstests (Gruppe A und B), Schülerfassung und Lösungen getrennt.
-- Der Lehrkräftebereich ist **passwortgeschützt**. Das Passwort ist nicht öffentlich und muss erfragt werden.
+- Der Lehrkräftebereich ist **passwortgeschützt**. Das Passwort ist nicht öffentlich und kann über den Autor erfragt werden.
 
 **Anleitungen:**
-- [Schnellstart für Lehrkräfte (1 Seite, PDF)](anleitung/Schnellstart-Lehrkraefte.pdf) · [bearbeitbar (ODT)](anleitung/Schnellstart-Lehrkraefte.odt)
-- [Ausführliche Anleitung für Lehrkräfte (PDF)](anleitung/Anleitung-Lehrkraefte.pdf) · [bearbeitbar (ODT)](anleitung/Anleitung-Lehrkraefte.odt)
+- [Schnellstart für Lehrkräfte (1 Seite, PDF)](anleitung/Schnellstart-Lehrkraefte.pdf) 
+- [Ausführliche Anleitung für Lehrkräfte (PDF)](anleitung/Anleitung-Lehrkraefte.pdf) 
 
-## Datenschutz
+### Datenschutz
 
 - Der Kurs speichert nichts auf einem Server und setzt keine Cookies. Schriften sind eingebettet, es werden keine externen Dienste geladen.
 - Namen, Antworten und Punkte der Kinder werden **nie** an GitHub oder einen anderen Dienst übertragen. Die Ergebnisdatei entsteht auf dem Gerät des Kindes, ist verschlüsselt und gelangt nur über die Abgabe in der Lernplattform zur Lehrkraft.
@@ -78,8 +78,4 @@ Orientiert an den **Fachanforderungen Mathematik Sekundarstufe I, Schleswig-Hols
 - Prozentsatz und Prozentstreifen, Prozentwerte als Anwendung der Bruchteilberechnung
 - Grundrechenarten mit Brüchen (die Division von Brüchen ist für die Anforderungsebene ESA nicht erforderlich)
 
-## Technik
-
-Der gesamte Kurs ist **eine einzige Datei** (`index.html`) mit eingebetteten Schriften, Bildern und PDFs. Sie funktioniert auch offline, wenn man sie herunterlädt und im Browser öffnet. Veröffentlicht über GitHub Pages.
-
-Hinweis: Der Lernfortschritt bleibt erhalten, solange die Seite geöffnet ist. Beim Neuladen beginnt der Kurs von vorn.
+**Hinweis: Der Lernfortschritt bleibt erhalten, solange die Seite geöffnet ist. Beim Neuladen beginnt der Kurs von vorn.**
