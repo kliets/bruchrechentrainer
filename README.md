@@ -1,14 +1,10 @@
-# Bruchrechentrainer – Selbstlernkurs Bruchrechnung Klasse 6
+## Bruchrechentrainer – Selbstlernkurs Bruchrechnung
 
-Ein interaktiver Selbstlernkurs zur Bruchrechnung für die Klassenstufe 6 – mit Erklärungen, Bildmodellen, zufällig erzeugten Übungsaufgaben, gezielter Förderdiagnose, Abschlusstest und Fördermaterial zum Ausdrucken.
+Interaktiver Selbstlernkurs zur Bruchrechnung für die Klassenstufe 6 – mit Erklärungen, Bildmodellen, zufällig erzeugten Übungsaufgaben, gezielter Förderdiagnose, Abschlusstest und Fördermaterial zum Ausdrucken.
 
 **➜ Kurs öffnen: [kliets.github.io/bruchrechentrainer](https://kliets.github.io/bruchrechentrainer/)**
 
-Läuft direkt im Browser – auf iPads, Tablets und Computern. Keine Anmeldung, keine Installation, keine Datenspeicherung auf einem Server.
-
-![Startseite des Kurses](screenshots/01-start.png)
-
----
+Läuft direkt im Browser. Keine Anmeldung, keine Installation, keine Datenspeicherung auf einem Server.
 
 ## Inhalte
 
@@ -26,7 +22,7 @@ Läuft direkt im Browser – auf iPads, Tablets und Computern. Keine Anmeldung, 
 
 Jedes Kapitel hat drei Teile: **Verstehen** (Merkwissen mit Bildern), **Ausprobieren** (interaktive Modelle mit Schiebereglern) und **Üben** (zufällig erzeugte Aufgaben mit Tipps und Lösungsweg).
 
-## So sieht es aus
+## Eindrücke aus dem Programm
 
 **Ausprobieren** – Bildmodelle machen sichtbar, warum man zum Addieren einen gemeinsamen Nenner braucht.
 
